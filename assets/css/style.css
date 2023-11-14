@@ -278,6 +278,10 @@ section {
   position: relative;
 }
 
+.title-web {
+  font-family: 'Poppins', sans-serif;
+}
+
 .section-title p {
   margin-bottom: 0;
 }
